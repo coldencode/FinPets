@@ -6,3 +6,5 @@ Before running the program, kindly key in this line into the terminal:
 "pip install -r requirements.txt"
 
 After installation of the dependencies, running the "game.py" file shall initiate the program.
+
+If you want the chatbot to work, you must also insert a valid GOOGLE GEMINI API KEY in the .env file
